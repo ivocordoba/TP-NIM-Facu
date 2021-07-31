@@ -1,0 +1,5 @@
+posicionGanadora [1] -> posicionGanadora [] == False ? Si, entonces [1] -> Es ganadora
+posicionGanadora [1,1] -> posicionGanadora [1] == False? No -> posicionGanadora [1] = true
+->posicionGanadora [1,1] -> posicionGanadora [1] == False? No -> posicionGanadora [1] = true
+->posicionGanadora = False.
+posicionGanadora [1,2] -> posicionGanadora [2] == False? -> posicionGanadora [1] == False?,No -> posicionGanadora -> [] == False?, Si -> [2] es Ganadora.->'                                                       -> posicionGanadora [1,1] == False? -> posicionGanadora [1] == False? No -> posicionGanadora [1] == False? No -> Aca se queda sin Jugadas y [1,1] = False                                                                                         
